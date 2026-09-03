@@ -1,0 +1,20 @@
+{
+    "name": "hexlet/code",
+    "description": "Study project",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "realinhoo",
+            "email": "konkomen1@gmail.com"
+        }
+    ],
+    "bin": [
+        "bin/brain-games"
+    ],
+    "require": {}
+}
