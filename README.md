@@ -23,7 +23,7 @@ cd php-project-45
 ## Использование
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
-
+https://asciinema.org/a/yefesv843HhoAZLS
 ---
 
 <details>
