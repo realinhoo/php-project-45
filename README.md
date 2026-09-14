@@ -24,6 +24,7 @@ cd php-project-45
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
 https://asciinema.org/a/yefesv843HhoAZLS
+https://asciinema.org/a/3VXadX10Y2mpkW9f
 ---
 
 <details>
